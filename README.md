@@ -1,2 +1,2 @@
 # hello-world
-exercise
+I'm a hobbyist hoping to upload a Raspberry Pi project I've been working on.
